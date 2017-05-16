@@ -1,2 +1,2 @@
 # lex2sql
-Library convert ldap filter to sql condition  
+Library convert LEX Ldap filter to sql condition
